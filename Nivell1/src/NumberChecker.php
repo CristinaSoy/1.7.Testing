@@ -1,6 +1,8 @@
 <?php
-class NumberChecker  {
 
+namespace Ccard\Nivell1;
+
+class NumberChecker  {
 
 	public function __construct(private int $number){}
 
